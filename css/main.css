@@ -421,4 +421,8 @@ h3 {
   #particle-canvas {
     display: none;
   }
+
+  .card {
+    width: 150px;
+  }
 }
